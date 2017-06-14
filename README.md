@@ -20,6 +20,9 @@ netmiko (fork of paramiko)
 port-shutdown.py #hosts #output #summary
 
 #hosts = text file with IP addresses, one per line to connect to and run port evaluation against
+
 #output = output text file with all logged activity
+
 #summary = output text file will sumnmary of all actions performed
+
 
