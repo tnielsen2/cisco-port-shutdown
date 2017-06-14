@@ -16,6 +16,8 @@ datetime
 
 netmiko (fork of paramiko)
 
+getpass
+
 # Syntax
 
 port-shutdown.py #hosts #output #summary
