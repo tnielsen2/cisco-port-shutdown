@@ -1,5 +1,3 @@
-#python script for ports at glendale
-
 import re	
 import sys
 import time
